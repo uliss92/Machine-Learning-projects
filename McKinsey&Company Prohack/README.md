@@ -30,13 +30,12 @@ Only two steps prevent us from achieving singularity:
 Our elders used the composite index to measure our well-being performance, but this
 knowledge has disappeared in the sands of time.
 Use our data and train your model to predict this index with the highest possible level of certainty.
-## 2) **To achieve the highest possible level of well-being through optimized allocation of
-additional energy
-We have discovered the star of an unusually high energy of 50000 zillion DSML.
-We have agreed between ourselves that:**
-- no one galaxy will consume more than 100 zillion DSML
-- at least 10% of the total energy will be consumed by galaxies in need with existence
-expectancy index below 0.7.
+## 2) To achieve the highest possible level of well-being through optimized allocation of 
+## additional energy We have discovered the star of an unusually high energy of 50000 zillion DSML.
+## We have agreed between ourselves that:
+    - no one galaxy will consume more than 100 zillion DSML
+    - at least 10% of the total energy will be consumed by galaxies in need with existence
+    expectancy index below 0.7.
 Think of our galaxies as your “countries” (or how you call them??) and our population as
 citizens. We have similar healthcare and wellbeing characteristic as you, Hooomans”
 “We are sending all the data to you right now. Let the data be with you, Hoomans… …
@@ -51,12 +50,12 @@ from a newly discovered star
 ### 1) **Index predictions are evaluated using RMSE metric**
 ### 2) **Energy allocation is also evaluated using RMSE metric and has a set of known factors that need to be taken into account. Every galaxy has a certain limited potential for improvement in the index described by the following function:**
 
-#### Potential for increase in the Index = -np.log(Index+0.01)+3
+        Potential for increase in the Index = -np.log(Index+0.01)+3
 
-Likely index increase dependent on potential for improvement and on extra energy availability is
-described by the following function:
+    Likely index increase dependent on potential for improvement and on extra energy availability is
+    described by the following function:
 
-#### Likely increase in the Index = extra energy * Potential for increase in the Index **2 / 1000
+        Likely increase in the Index = extra energy * Potential for increase in the Index **2 / 1000
 
     There are also several constraints:
     • In total there are 50000 zillion DSML available for allocation and no galaxy at a point in time
