@@ -1,0 +1,21 @@
+category_encoders   2.5.0
+matplotlib          3.5.1
+missingno           0.4.2
+numpy               1.21.5
+ortools             9.3.10497
+pandas              1.4.3
+scipy               1.8.1
+seaborn             0.11.2
+session_info        1.0.0
+sklearn             1.0.2
+statsmodels         0.13.2
+xgboost             1.6.1
+
+-----
+IPython             8.3.0
+jupyter_client      6.1.12
+jupyter_core        4.10.0
+jupyterlab          3.3.2
+notebook            6.4.11
+-----
+Python 3.9.12 
